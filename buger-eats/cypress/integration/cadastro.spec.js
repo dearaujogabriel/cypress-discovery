@@ -40,6 +40,6 @@ describe('cadastro', () => {
         cy.contains('.delivery-method li', entregador.metodo_entrega).click()
         cy.get('input[type="file"]').attachFile(entregador.cnh)
         cy.get('button[class="button-success"]').click()
-        cy.get('.swal2-container .swal2-html-container').should('have.text', expectedMessage);
+        cy.get('.swal2-container .swal2-html-container').should('have.text', expectedMessage)
     })
 })
