@@ -1,0 +1,50 @@
+{
+    "signup": {
+    "name": "Gabriel Araujo", 
+    "cpf": "29599663098", 
+    "email": "teste@gmail.com", 
+    "whatsapp": "34991273242", 
+    "address": {
+        "postalcode": "38405158", 
+        "street": "Rua Honduras",
+        "number": "111",
+        "details": "Casa da esquina",
+        "district": "Tibery", 
+        "city_state": "Uberlândia/MG"
+    }, 
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+    }, 
+    "cpf_inv": {
+        "name": "Fábio Assunção", 
+        "cpf": "295996630AA", 
+        "email": "xaropinho@gmail.com", 
+        "whatsapp": "34991273255", 
+        "address": {
+            "postalcode": "38405158", 
+            "street": "Rua Honduras",
+            "number": "111",
+            "details": "Casa da esquina",
+            "district": "Tibery", 
+            "city_state": "Uberlândia/MG"
+        }, 
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "name": "Fábio Assunção", 
+        "cpf": "29599663098", 
+        "email": "xaropinho.com", 
+        "whatsapp": "34991273255", 
+        "address": {
+            "postalcode": "38405158", 
+            "street": "Rua Honduras",
+            "number": "111",
+            "details": "Casa da esquina",
+            "district": "Tibery", 
+            "city_state": "Uberlândia/MG"
+        }, 
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg" 
+    }
+}
